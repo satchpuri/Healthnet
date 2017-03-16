@@ -33,4 +33,7 @@ C:\Users\Nathan\AppData\Roaming\cabal\bin;C:\Users\Nathan\AppData\Roaming\npm;C:
 Other files included are the Requirements document for the project and
 the test planner to guide testing of the HealthNet
 
-For any questions or issues send Devon Bagley an email at dxb4606@g.rit.edu
+Username: tester
+password: tester
+
+For any questions or issues send Satch Puri an email at sp1796@g.rit.edu
